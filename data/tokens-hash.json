@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "updated_at": 1775454150893,
+  "total": 0,
+  "tokens": [
+   { "token_hash": "",
+      "owner_tg_id": 8934003678,
+      "role": "KINGZ",
+      "status": "active",
+      "allowed_ip": "*",
+      "exp": 0,
+      "created_at": 1775454150
+    }
+  ]
+}
